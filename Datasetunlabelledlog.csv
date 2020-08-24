@@ -1,0 +1,23 @@
+fold num,imgid,feature1,feature2,feature3
+0,testimage/1.png,5307,166.5,590.5828221
+1,testimage/2.png,15707,4200.5,589.9898953
+2,testimage/1.png,5307,166.5,590.5828221
+3,testimage/1.png,5307,166.5,590.5828221
+4,testimage/leaf4.jpg,0,0,105.3137083
+5,testimage/2.png,15707,4200.5,589.9898953
+6,testimage/3.png,18.5,0,184.9533175
+7,leaf sampler/r (1).jpg,21.5,0,191.92388
+8,leafsample/r (44).jpg,25.5,0,157.0954529
+9,leafsample/r (44).jpg,25.5,0,157.0954529
+0,leaf sampler/r (1).jpg,21.5,0,191.92388
+1,testimage/1.png,5307,166.5,590.5828221
+2,testimage/4.png,20250,1142.5,628.7665876
+3,testimage/4.png,20250,1142.5,628.7665876
+4,leafsample/r (44).jpg,25.5,0,157.0954529
+5,leafsample/r (44).jpg,25.5,0,157.0954529
+6,leafsample/r (44).jpg,25.5,0,157.0954529
+7,testimage/r (2410).jpg,30,0,242.4507914
+8,Automatic-leaf-infection-identifier-master/leafhealthy.JPG,36.0,0.5,223.27921843528748
+9,Automatic-leaf-infection-identifier-master/leafhealthy.JPG,36.0,0.5,223.27921843528748
+0,Automatic-leaf-infection-identifier-master/leafhealthy.JPG,36.0,0.5,223.27921843528748
+1,Automatic-leaf-infection-identifier-master/leafhealthy.JPG,36.0,0.5,223.27921843528748
